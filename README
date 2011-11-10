@@ -1,0 +1,5 @@
+This is a translation from the PayPal PHP sample code to POPO Python.
+
+- PayPal sample code for different languages available at: https://cms.paypal.com/us/cgi-bin/?cmd=_render-content&content_ID=developer/library_code_ipn_code_samples
+- Brief article at: http://blog.databigbang.com/the-python-popos-way-to-integrate-paypal-instant-payment-notification
+
